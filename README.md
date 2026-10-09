@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=160&section=header&text=Rahab Chepchirchir&fontColor=00ff41&fontSize=42&fontAlignY=45&desc=CYBERSECURITY%20%2F%2F%20BLUE%20TEAM%20%2F%2F%20SOC&descAlignY=70&descColor=39ff14&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=160&section=header&text=Rahab%20Chepchirchir&fontColor=00ff41&fontSize=42&fontAlignY=45&desc=JUNIOR%20CYBERSECURITY&descFontSize=20&descColor=39FF14&width=850" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%24+whoami;junior_cybersecurity_enthusiast;blue_team+%7C+security_ops+%7C+threat_detection" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%2[...]" />
 
 </div>
 
@@ -26,11 +26,13 @@ Junior Cybersecurity enthusiast focused on security operations, vulnerability as
 
 I recently graduated with a background in Information Technology and Cybersecurity. I have developed hands-on experience through security projects, labs, technical research, and practical experimentation across network security, web application security, security monitoring, Linux, Python and security automation.
 
-I enjoy analyzing systems, investigating suspicious activity, identifying vulnerabilities, and understanding how security weaknesses affect real systems. My approach is practical and evidence-driven, with a focus on learning through building, testing, and documenting. More so i have developed ,achine learning skills and i can comfortably create and build models. I have interacted with AI services as well, and integrating them into real world systems.
+I enjoy analyzing systems, investigating suspicious activity, identifying vulnerabilities, and understanding how security weaknesses affect real systems. My approach is practical and evidence-driven, with a focus on learning through building, testing, and documenting. More so I have developed skills in analyzing, understanding vulnerabilities, and implementing secure solutions. I have interacted with AI services as well, and integrating them into real world systems.
 
-I'm currently seeking an entry-level opportunity where I can contribute to security operations and other suiting opportunites, apply my technical skills, and continue growing as a cybersecurity professional.
+I'm currently seeking an entry-level opportunity where I can contribute to security operations and other suitable opportunities, apply my technical skills, and continue growing as a cybersecurity professional.
 
 `Current focus: Security Operations • Blue Team • Threat Detection • Vulnerability Assessment`
+
+`Learning: Web Development`
 
 <br>
 
