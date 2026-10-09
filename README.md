@@ -18,7 +18,7 @@
 
 <br>
 
-## `> whoami`
+## `> Rahab Chepchirchir`
 
 Hi, I'm Rahab.
 
